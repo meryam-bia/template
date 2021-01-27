@@ -1,0 +1,58 @@
+.navbar-expand-lg .navbar-nav {
+    margin-left: 260px;
+}
+
+
+.navbar-light .navbar-brand {
+    color: blue;
+}
+.nav-item a:hover i{
+    margin-left: 20px;
+}
+
+.bg-light {
+    background-color: white !important;
+}
+
+.btn-secondary{
+background: skyblue;
+font-size: inherit;
+color: blue;
+border: none;
+border-radius: 6px;
+}
+.btn-primary{
+font-size: inherit;
+border: none;
+border-radius: 6px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+    font-weight: 567;
+}
+.row-text-center-mt-5 {
+    margin-top: 30px;
+}
+   /*margin-top: 41px;*/
+    
+   .row-text-center .col-md-4{
+    margin-top: 41px
+   }
+   .col-md-3 p a {
+       
+       text-decoration: none;
+       color: grey;
+   }
+   .col-md-2 p a {
+       color: grey;
+       text-decoration: none;
+   }
+   h6 {
+       color: grey;
+   }
+   .col-md-3 p i {
+       color: grey;
+   }
+   footer {
+       background-color: #f6f2fc  
+   }
+   
